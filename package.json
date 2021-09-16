@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-xavdid-with-react",
+  "version": "0.0.0",
+  "description": "A custom eslint config, just how I like it. Plus React.js!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo cool",
+    "release": "npx np"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": "^7",
+    "typescript": "^4.0.3"
+  },
+  "author": "David Brownman <beamneocube@gmail.com> (https://xavd.id)",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-react": "^7.21.4",
+    "eslint-plugin-react-hooks": "^4.1.2",
+    "eslint-config-xavdid": "^3.0.0"
+  }
+}
