@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xavdid-with-react",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A custom eslint config, just how I like it. Plus React.js!",
   "main": "index.js",
   "scripts": {
